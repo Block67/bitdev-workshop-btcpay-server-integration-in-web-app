@@ -2,19 +2,19 @@
 
 Ce template vous aide à démarrer le développement avec Vue 3, Vite et Tailwind CSS v4. Le template utilise Vue 3 `<script setup>` SFCs, consultez cette [page](https://dev.to/osalumense/install-tailwind-css-v4-in-a-vue-3-vite-project-319g) pour en savoir plus.
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - **Vue 3** - Framework JavaScript progressif
 - **Vite** - Outil de build ultra-rapide
 - **Tailwind CSS v4** - Framework CSS utility-first avec les dernières améliorations
 
-## 🆕 Nouveautés de Tailwind CSS v4
+## Nouveautés de Tailwind CSS v4
 
 - **Pas de configuration PostCSS requise** – Plus besoin de `postcss.config.js`
 - **Temps de construction plus rapides** – Grâce à de meilleures optimisations
 - **Nouveau plugin `@tailwindcss/vite`** – Intégration transparente avec Vite
 
-## 📦 Installation
+## Installation
 
 ### Créer le projet
 ```bash
@@ -62,24 +62,24 @@ import './style.css'
 createApp(App).mount('#app')
 ```
 
-## 🏃‍♂️ Démarrage
+## Démarrage
 
 ```bash
 npm run dev
 ```
 
-## 💡 Pourquoi Vue 3 + Vite ?
+## Pourquoi Vue 3 + Vite ?
 
 - **Performance optimale** : Vue 3 est léger sans les surcharges additionnelles
 - **Contrôle total** : Vous décidez de l'architecture de votre application
 - **Simplicité** : Idéal pour les SPA sans besoin de SSR/SSG
 - **Builds rapides** : Vite offre un développement et déploiement ultra-rapides
 
-## 📚 Ressources
+## Ressources
 
 En savoir plus sur le support IDE pour Vue dans le [Guide Vue Docs Scaling up](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
-## 🎨 Utilisation de Tailwind
+## Utilisation de Tailwind
 
 Vous pouvez maintenant utiliser les classes Tailwind directement dans vos composants Vue :
 
